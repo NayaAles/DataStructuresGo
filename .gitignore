@@ -19,3 +19,19 @@
 
 # Go workspace file
 go.work
+.DS_Store
+/Users/naya/Documents/GitHub/DataStructuresGo/DataStructures/.idea/DataStructures.iml
+/Users/naya/Documents/GitHub/DataStructuresGo/DataStructures/.idea/modules.xml
+/Users/naya/Documents/GitHub/DataStructuresGo/DataStructures/.idea/vcs.xml
+.idea/*
+/DataStructures/.idea
+DataStructures/.idea/*
+DataStructures/.idea/vcs.xml
+DataStructures/.idea/modules.xml
+DataStructures/.idea/DataStructures.iml
+DataStructures/.idea/modules.xml
+DataStructures/.idea/vcs.xml
+DataStructures/.idea/DataStructures.iml
+*.iml
+/DataStructures/.idea
+DataStructures/.idea/DataStructures.iml
